@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 💬 Ask me about **React Native Application Development**
+- 💬 Ask me anything about **React Native Application Development**
 
 - 📫 How to reach me **shahil.mangroliya123@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shahil-mangroliya/](https://www.linkedin.com/in/shahil-mangroliya/)
 
-- Hello! I'm a **React Native developer**, and I enjoy tackling coding challenges in JavaScript or TypeScript. I'm always ready to help with any coding questions or assistance you might need. 😊🚀
+- ⚡ Hello! I'm a **React Native developer**, and I enjoy tackling coding challenges in JavaScript or TypeScript. I'm always ready to help with any coding questions or assistance you might need. 😊🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
