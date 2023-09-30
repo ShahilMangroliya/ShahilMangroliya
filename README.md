@@ -12,3 +12,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahilMangroliya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi36456&show_icons=true&locale=en&layout=compact" alt="abhi36456" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi36456&show_icons=true&locale=en" alt="abhi36456" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi36456&" alt="abhi36456" /></p>
