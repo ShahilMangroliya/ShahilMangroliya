@@ -13,8 +13,10 @@
 
 - ⚡ Hello! I'm a **React Native developer**, and I enjoy tackling coding challenges in JavaScript or TypeScript. I'm always ready to help with any coding questions or assistance you might need. 😊🚀
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahil-mangroliya) 
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahil-mangroliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahil-mangroliya" height="30" width="40" /></a>
 </p>
