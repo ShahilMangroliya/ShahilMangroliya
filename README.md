@@ -5,7 +5,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShahilMangroliya&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahilMangroliya" alt="ShahilMangroliya" /></a> </p>
 
 
 - 🌱 I’m currently learning **Java Spring Boot**
