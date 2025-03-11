@@ -7,7 +7,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ShahilMangroliya&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently working at **Pointz**
 
 - 💬 Ask me anything about **React Native Application Development**
 
