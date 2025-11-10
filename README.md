@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahil Mangroliya</h1>
-<h3 align="center">Head of Engineering @ Pointz | Full Stack Mobile Developer (React Native | Node.js | AWS)</h3>
+<h3 align="center">Head of Engineering @ Pointz | Full Stack Software Engineer (React Native | Node.js | AWS)</h3>
 
 <p align="center">
   <a href="https://github.com/ShahilMangroliya">
