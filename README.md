@@ -48,7 +48,7 @@ I’ve led projects from scratch — including architecture, backend, mobile app
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahil-mangroliya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ShahilMangroliya)
-[![Email](https://img.shields.io/badge/Email-Outlook-blue?logo=microsoft-outlook&logoColor=white)](mailto:shahil.mangroliya123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahil.mangroliya123@gmail.com)
 
 ---
 
